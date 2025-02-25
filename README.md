@@ -41,18 +41,18 @@ Es una aplicación web interactiva que permite a los usuarios organizar un sorte
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
 
-##Uso
+## Uso
 Añadir amigos: Ingresa los nombres de tus amigos en el campo de texto y haz clic en el botón "Añadir". Los nombres se agregarán a una lista visible.
 Sortear amigos secretos: Cuando todos los amigos estén agregados, haz clic en "Sortear amigo secreto" para asignar un amigo secreto a uno de los participantes de manera aleatoria.
 
-##Lógica del Sortear
+## Lógica del Sortear
 El código JavaScript funciona de la siguiente manera:
 
 Agregar amigo: Cuando el usuario escribe un nombre en el campo de texto y hace clic en el botón "Añadir", el nombre se agrega a un arreglo llamado amigos. La lista de amigos se actualiza automáticamente en el DOM.
 
 Sortear amigo secreto: Al hacer clic en el botón "Sortear amigo", se selecciona un nombre aleatorio del arreglo amigos utilizando la función Math.random(), y el nombre sorteado se muestra en la sección de resultados. Si no se han añadido amigos, se muestra una alerta pidiendo agregar amigos primero.
 
-##Estilos
+## Estilos
 El diseño visual de la aplicación se gestiona mediante el archivo style.css. Algunas características destacadas incluyen:
 
 Paleta de colores: Se han definido variables CSS para los colores principales, como el color del fondo, los botones y el texto.
@@ -61,11 +61,9 @@ Botones interactivos: Los botones cambian de color cuando el usuario pasa el mou
 ##Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio, realizar tus mejoras y enviar un pull request.
 
-##Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
-##Autor
+## Autor
 Emmanuel
-
-Este proyecto fue creado como parte de mi aprendizaje en desarrollo web.
 
