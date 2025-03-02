@@ -1,4 +1,4 @@
-![Banner Amigo Secreto](https://github.com/user-attachments/assets/bebff93b-ba3d-4b60-b45c-d9adacdc2602)
+![Secret Friend](https://github.com/user-attachments/assets/c50dfb88-3d3a-4f56-8931-c2e3de104046)
 
 # Amigo Secreto
 
